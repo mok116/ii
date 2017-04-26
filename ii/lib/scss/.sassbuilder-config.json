@@ -1,0 +1,11 @@
+{
+    "project_path": "../css",
+    "output_path": "../css",
+    "options": {
+        "cache":         false,
+        "debug":         false,
+        "line-comments": false,
+        "line-numbers":  false,
+        "style":         "compressed"
+    }
+}
